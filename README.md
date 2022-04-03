@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @toharmarkovich
-- 👀 I’m currently working on usable discord bots using discord.py
-- 🌱 I’m currently learning data structures and algorithms
-- 💞️ I’m looking to collaborate on a largescale discord bot & machine learning/AI research
+- 👀 I’m currently working on some discord.py bots & Java projects
+- 🌱 I’m currently learning Machine Learning
 - 📫 How to reach me: https://www.instagram.com/
 
 <!---
