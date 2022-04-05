@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @toharmarkovich
-- 👀 I’m currently working on some discord.py bots & Java projects
-- 🌱 I’m currently learning Machine Learning
+- 👀 I’m currently working on developing bots using discord.py API
+- 🌱 I’m currently learning Data Structures in Java & Machine Learning
 - 📫 How to reach me: https://www.instagram.com/
 
 <!---
